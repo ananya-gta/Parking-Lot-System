@@ -30,9 +30,6 @@ What are some questions you would ask to gather requirements?
 ```
 
 ## Requirements
-What will be 10 requirements of the system, according to you?
-Do not worry about the correctness of the requirements, just write down whatever comes to your mind.
-Your job is not to generate the requirements, but get better at understanding problem statements and anticipating the functionalities your application might need.
 
 Build an online parking lot management system that can support the following requirements:
 * Should have multiple floors.
