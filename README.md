@@ -77,7 +77,7 @@ What would be the use cases i.e. the interactions between the actors and the sys
 
 Name of the actor - `Admin`
 
-Use cases: `CRUD`
+Use cases:
 1. `Create a parking lot`
 2. `Create a parking floor`
 3. `Add new parking spots`
@@ -86,6 +86,7 @@ Use cases: `CRUD`
 #### Actor 2
 
 Name of the actor - `Parking attendant`
+
 Use cases:
 1. `Check empty slots`
 2. `Issue a ticket` - `Allocating a slot`
@@ -95,6 +96,7 @@ Use cases:
 #### Actor 3
 
 Name of the actor - `Customer`
+
 Use cases:
 1. `Pay` - `Pay online`, `Pay at exit gate`
 2. `Check status`
